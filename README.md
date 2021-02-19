@@ -1,1 +1,1 @@
-# Farmer-s-Auction-using-Ethereum-Smart-Contracts
+# Farmer-Auction-using-Ethereum-Smart-Contracts
