@@ -1,1 +1,2 @@
-# Farmer-Auction-using-Ethereum-Smart-Contracts
+# Simple-Farmer-Auction-using-Ethereum-Smart-Contracts
+The Smart Contracts execution and secure tamper-proof agreement signed between the Farmer and the Bidders prevents any kind of cheating from both sides. It allows auctions to happen in a much secure way and provides faster payment to farmers. Strong privacy features combined with Ethereum Blockchain can disallow bidders to collude which can offer better price to farmers. 
